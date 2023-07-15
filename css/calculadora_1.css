@@ -1,0 +1,30 @@
+body {
+  background: url("../img/bg.jpg") no-repeat;
+  background-size: cover;
+}
+.main-frame-cal {
+  width: 50%;
+  padding: 50px;
+  height: 450px;
+  border-radius: 30px;
+  background-color: rgba(252, 212, 242, 0.759);
+  box-shadow: 0px 0px 20px 0px rgba(53, 52, 52, 0.775);
+  margin: 7% auto;
+}
+.main-frame-cal label {
+  font-weight: bold;
+}
+button {
+  float: right;
+}
+.main-frame-cal input, select{
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 0px rgba(53, 52, 52, 0.5);
+}
+
+.home {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+  width: 50px;
+}

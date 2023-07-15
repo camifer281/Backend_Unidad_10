@@ -52,7 +52,7 @@ INSERT INTO `usuarios` (`id`, `nombre`, `apellido`, `cedula`) VALUES
 (15, 'JHOAN', 'CAMACHO', 1200000),
 (16, 'MARIANA', 'GARCIA', 1300000),
 (17, 'BRAYAN', 'MARTINEZ', 1400000),
-(18, 'Laura', 'Espitia', 1500000);
+(18, 'Laura', 'Espitia', 1500000),
 (19, 'Camila', 'Rosero', 1122786162);
 --
 -- Índices para tablas volcadas
